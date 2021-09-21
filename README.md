@@ -4,6 +4,7 @@
 
 <h3 align = center> Nicolas Lima De Holanda Galindo</h3>
 
+<br>
 <h2>Repositorio</h2>
 
 <p>como está organizado as pastas do repositorio:</p>
@@ -31,8 +32,9 @@
 <p>:heavy_check_mark: vídeo do YouTube.</p>
 
 <div>
+  <br>
   <h2>Link de Acesso ao Video Explicativo e Demonstrativo</h2>
 
-  clique aqui
+  https://youtu.be/_YBWRu-bVw8
   
 </div>
