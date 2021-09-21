@@ -22,6 +22,7 @@
 </ul>
 <br>
 
+
 <h2>Entrega Parcial 1</h2>
 
 <p>:heavy_check_mark: Waireframe - Mobile.</p>
