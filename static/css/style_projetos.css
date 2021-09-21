@@ -1,0 +1,199 @@
+*{
+    margin: 0px;
+    padding-left: 0px;
+}
+
+.fundo{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    height: 675px;
+    width: 100%;
+}
+
+.cabecalho{
+    position: absolute;
+    background: #D3D3D3;
+    border: solid;
+    border-color: black;
+    border-radius: 0px 0px 10px 10px;
+    height: 50px;
+    width: 99.5%;
+}
+
+.botão_inicio{
+    position: absolute;
+    left: 0.2%;
+    color: black;;
+    background-color: #D3D3D3(255, 0, 0);
+    border-radius: 0px 0px 0px 10px;
+    height: 7.4%;
+    width: 6%;
+    display: inline-block;
+    transition-duration: 0.2s;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    top: 0.5%;
+}
+
+.botão_inicio:hover{
+    color: black;
+    border-color: black;
+    background-color: rgb(133, 126, 121);
+}
+
+.botão_sobre_mim{
+    position: absolute;
+    color: black;
+    background-color: #D3D3D3(255, 0, 0);
+    display: inline-block;
+    transition-duration: 0.2s;
+    border-radius: 0px 10px 10px 0px;
+    text-decoration: none;
+    cursor: pointer;
+    height: 7.4%;
+    width: 6%;
+    text-align: center;
+    top: 0.5%;
+    left: 6.2%;
+}
+
+.botão_sobre_mim:hover{
+    color: black;
+    border-color: black;
+    background-color: rgb(133, 126, 121);
+}
+
+.curriculo{
+    position: absolute;
+    color: black;
+    padding-left: 6%;
+    top: 10%;
+}
+
+.div_curriculo{
+    position: absolute;
+    border: solid;
+    border-color: black;
+    background: #D3D3D3;
+    border-radius: 10px 10px 10px 10px;
+    width: 87%;
+    height: 34%;
+    left: 6%;
+    top: 16%;
+}
+
+.text_curriculo{
+    position: absolute;
+    color: black;
+    left: 10%;
+    top: 30.5%;
+    font-size: 100%;
+}
+
+.div_barra{
+    position: absolute;
+    height: 30%;
+    border: solid;
+    border-color: black;
+    border-width: 2PX;
+    left: 38%;
+    top: 18%;
+}
+
+.usp{
+    position: absolute;
+    font-size: 125%;
+    left: 41%;
+    top: 23.5%;
+}
+
+.novotec{
+    position: absolute;
+    font-size: 125%;
+    left: 41%;
+    top: 27.5%;
+}
+
+.ensino_médio{
+    position: absolute;
+    font-size: 125%;
+    left: 41%;
+    top: 31.5%;
+}
+
+.ingles{
+    position: absolute;
+    font-size: 125%;
+    left: 41%;
+    top: 35.5%;
+}
+
+.japones{
+    position: absolute;
+    font-size: 125%;
+    left: 41%;
+    top: 39.5%;
+}
+
+.projetos{
+    position: absolute;
+    color: black;
+    padding-left: 6%;
+    top: 51%;
+}
+
+.div_projetos{
+    position: absolute;
+    border: solid;
+    border-color: black;
+    background: #D3D3D3;
+    border-radius: 10px 10px 10px 10px;
+    width: 55%;
+    height: 37%;
+    left: 6%;
+    top: 58%;
+}
+
+.exercicio_divs{
+    position: absolute;
+    color: black;
+    font-size: 125%;
+    left: 10%;
+    top: 65%;
+}
+
+.exercicio_divs:hover{
+    color: rgb(44, 44, 31);
+}
+
+.listas_python{
+    position: absolute;
+    color: black;
+    font-size: 125%;
+    left: 10%;
+    top: 69%
+}
+
+.listas_python:hover{
+    color: rgb(44, 44, 31);
+}
+
+.div_projetos_imagem{
+    position: absolute;
+    border: solid;
+    border-color: black;
+    background: #D3D3D3;
+    border-radius: 10px 10px 10px 10px;
+    width: 28%;
+    height: 33%;
+    left: 64.9%;
+    top: 60%;
+}
+
+.text_projetos_imagem{
+    position: absolute;
+    color: black;
+    left: 72%;
+    top: 76%;
+}
