@@ -24,17 +24,19 @@
 <br>
 
 
-<h2>Entrega Parcial 1</h2>
+## Cronograma de Entregas
 
-<p>:heavy_check_mark: Waireframe - Mobile.</p>
-<p>:heavy_check_mark: Prototipo Navegavel.</p>
-<p>:heavy_check_mark: codigo HTML E CSS.</p>
-<p>:heavy_check_mark: vídeo do YouTube.</p>
+| Data | Links |
+| ------ | ------ |
+|    22/09/2021    |[Entrega Parcial 1](https://github.com/Nicolas734/Portifolio---Design-Digital/releases/tag/V.1.0)|
+|    14/11/2021    |[Entrega Parcial 2]()|
 
 <div>
   <br>
-  <h2>Link de Acesso ao Video Explicativo e Demonstrativo</h2>
+  <h2>Link de Acesso a Playlist das Entretgas Parciais</h2>
 
-  <li>https://youtu.be/_YBWRu-bVw8</li>
+  
+ [Playlist das Entretgas Parciais](https://www.youtube.com/playlist?list=PLG6ZWbdTg-lvJyPPucsNLlyyk7xl1xXrW)
+ 
   
 </div>
