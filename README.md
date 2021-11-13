@@ -29,7 +29,7 @@
 | Data | Links |
 | ------ | ------ |
 |    22/09/2021    |[Entrega Parcial 1](https://github.com/Nicolas734/Portifolio---Design-Digital/releases/tag/V.1.0)|
-|    14/11/2021    |[Entrega Parcial 2]()|
+|    14/11/2021    |[Entrega Parcial 2](https://github.com/Nicolas734/Portfolio---Design-Digital/releases/tag/V.2.0)|
 
 <div>
   <br>
