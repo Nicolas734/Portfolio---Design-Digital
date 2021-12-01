@@ -33,10 +33,10 @@
 
 <div>
   <br>
-  <h2>Link de Acesso a Playlist das Entretgas Parciais</h2>
+  <h2>Link de Acesso a Playlist das Entregas Parciais</h2>
 
   
- [Playlist das Entretgas Parciais](https://www.youtube.com/playlist?list=PLG6ZWbdTg-lvJyPPucsNLlyyk7xl1xXrW)
+ [Playlist das Entregas Parciais](https://www.youtube.com/playlist?list=PLG6ZWbdTg-lvJyPPucsNLlyyk7xl1xXrW)
  
   
 </div>
