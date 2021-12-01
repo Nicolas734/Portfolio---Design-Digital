@@ -1,0 +1,491 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+
+body::-webkit-scrollbar {
+  width: 10px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #D4D8D8;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #e1e1e3;    /* color of the scroll thumb */
+  border-radius: 10px;       /* roundness of the scroll thumb */
+  border: 1px solid rgb(0, 0, 0);  /* creates padding around scroll thumb */
+}
+
+
+
+#background{
+    background-color: #D4D8D8;
+}
+
+/* Links NavBar */
+
+.link_1{
+    color: white;
+    cursor: pointer;
+    text-decoration:none;
+    font-size: 1.5vw;
+    margin-left: 1vw;
+    transition-duration: 0.2s;
+}
+
+.link_1:hover{
+    color: rebeccapurple;
+}
+
+.link_2{
+    color: white;
+    cursor: pointer;
+    text-decoration:none;
+    font-size: 1.5vw;
+    margin-left: 1vw;
+    transition-duration: 0.2s;
+}
+
+.link_2:hover{
+    color: rebeccapurple;
+}
+
+.link_3{
+    color: white;
+    cursor: pointer;
+    text-decoration:none;
+    font-size: 1.5vw;
+    margin-left: 1vw;
+    transition-duration: 0.2s;
+    
+}
+
+.link_3:hover{
+    color: rebeccapurple;
+}
+
+/* Pagina Index */
+/* Logo */
+
+#div_logo{
+    display: flex;
+    position: relative;
+    margin-top: 7vh;
+    font-family: Kumar One;
+    background-color: #f8f9fa;  
+}
+
+#logo{
+    margin-top: 2.5%;
+    margin-left: 30%;
+    font-size: 5vw;
+}
+
+/* Sobre Mim */
+
+#box_1{
+    background-color: #f8f9fa;
+    display: flex;
+    margin-top: 4%;
+    padding-top: 3%;
+}
+
+#img{
+    
+    border-radius: 10px;
+    width: 25%;
+    height: 60%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    filter: drop-shadow(2px 2px 2px rgb(0, 0, 0));
+    
+}
+
+.text_1{
+    font-family: Roboto;
+    font-size: 2.7vw;
+    margin-top: 4vw;
+    margin-left: 4vw;
+}
+
+/* Curriculo */
+
+#box_2{
+    background-color: #f8f9fa;
+    display: flex;
+    margin-top: 4%;
+    padding-top: 32.8%;
+}
+
+#div_curriculo{
+    margin-top: -3vw;
+}
+
+#curriculo{
+    font-family: Roboto;
+    font-size: 5vw;
+    margin-top: -27vw;
+    margin-left: 40vw;
+}
+
+#list_curriculo{
+    font-family: Roboto;
+    font-size: 2.7vw;
+    margin-top: 3vw;
+    margin-left: 18vw;
+    
+}
+
+/* Rodape */
+
+#rodape{
+    display: flex;
+    background-color: #f8f9fa;
+    margin-top: 4%;  
+}
+
+#direitos{
+    font-family: Roboto;
+    font-size: 2vw;
+    margin-left: 35vw;
+    margin-top: 1vw;
+}
+
+
+/* Pagina Projetos */
+/* Projetos */
+#box_4{
+  background-color: #f8f9fa;
+  display: flex;
+  margin-top: 4%;
+  padding-top: 32.8%;
+}
+
+#Projetos{
+    font-family: Roboto;
+    font-size: 4vw;
+    margin-top: -25vw;
+    margin-left: 35vw;
+}
+
+#list_projetos{
+    font-family: Roboto;
+    font-size: 2vw;
+    margin-top: 4vw;
+    margin-left: 20vw;
+}
+
+/* Bot */
+
+#box_5{
+  background-color: #f8f9fa;
+  display: flex;
+  margin-top: 4%;
+  padding-top: 32.8%;
+}
+
+#bot{
+    font-family: Roboto;
+    font-size: 3vw;
+    margin-top: -25vw;
+    margin-left: 2vw;
+}
+
+#list_bot{
+    font-family: Roboto;
+    font-size: 2vw;
+    margin-top: 2vw;
+    margin-left: 1vw;
+}
+
+#gif{
+    border-radius: 10px;
+    width: 50%;
+    margin-top: -30%;
+    margin-bottom: 3%;
+    margin-left: 1.5%;
+    filter: drop-shadow(2px 2px 2px rgb(0, 0, 0));
+}
+
+
+/* Pagina Contatos */
+/* Contatos */
+
+#box_cont{
+  background-color: #f8f9fa;
+  display: flex;
+  margin-top: 4%;
+  padding-top: 32.8%;
+}
+
+
+.contatos{
+  margin-top: -24vw;
+  margin-left: 42.5%;
+}
+
+.github{
+  width: 40%;
+  margin-left: -130%;
+  margin-top: -85%;
+}
+
+.gmail{
+  width: 36.6%;
+  margin-left: 4%;
+  margin-top: -85%;
+}
+
+.linkedin{
+  width: 45%;
+  margin-left: 4%;
+  margin-top: -85%;
+}
+
+.instagram{
+  width: 50%;
+  margin-top: -85%;
+  margin-left: 4%;
+}
+
+
+
+/* MIDIAS QUERIES */
+
+
+
+/* Media Queries da Pagina Index */
+
+@media screen and (max-width: 800px) {
+  #div_logo {
+    margin-top: 13%;
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 800px) {
+  #logo {
+    font-size: 6vw;
+    text-align: center;
+}
+}
+
+@media screen and (max-width: 800px) {
+  #box_1 {
+    margin-top: 13%;
+    width: 100%;
+}
+}
+
+
+@media screen and (max-width: 800px) {
+  #img { 
+      width: 33%;
+      margin-top: 3.3%;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  .text_1 { 
+      font-size:  3.7vw;
+      margin-top: 2vw;
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  #box_2 {
+    margin-top: 13%;
+    padding-top: 50%; 
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 800px) {
+  #curriculo { 
+      font-size:  6vw;
+      margin-top: -40vw;
+      margin-left: 38vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #list_curriculo { 
+      font-size:  3.5vw;
+      margin-left: 4vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #rodape {
+    margin-top: 13%; 
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #direitos {
+    font-size: 3vw;
+    margin-top: 2vw;
+    margin-left: 30vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .link_1 {
+    font-size: 4vw;
+    margin-left: 28vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .link_2 {
+    font-size: 4vw;
+    
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .link_3 {
+    font-size: 4vw;
+    
+  }
+}
+
+
+
+/* Midias Queries da Pagina Projetos */
+
+
+
+@media screen and (max-width: 800px) {
+  #div_projetos  {
+    margin-top: -22%;
+    margin-left: -9%;
+
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #Projetos  {
+    font-size: 6vw;
+
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #list_projetos  {
+    font-size: 3.5vw;
+    margin-left: 12vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #box_4 {
+    margin-top: 13%;
+    padding-top: 60%; 
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #box_5 {
+    margin-top: 13%;
+    padding-top: 70%; 
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #bot {
+    font-size: 6vw;
+    margin-left: 17vw;
+    
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #list_bot {
+    font-size: 3.5vw;
+    
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #div_func_bot {
+    margin-top: -40%;
+    margin-left: 4%;
+    
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #gif {
+    margin-left: -72%;
+    width: 70%;
+  }
+}
+
+
+
+/* Midia Queries da Pagina Contatos */
+
+
+
+@media screen and (max-width: 800px) {
+  #box_cont  {
+    margin-top: 13%;
+    padding-top: 125.7%; 
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .contatos  {
+    font-size: 7vw;
+    margin-top: -90vw;
+    margin-left: 34vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .github  {
+    width: 100%;
+    margin-top: -380%;
+    margin-left: -168%;
+    
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .gmail  {
+    width: 95%;
+    margin-top: -380%;
+    margin-left: 10%;
+    
+   
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .linkedin  {
+    width: 100%;
+    margin-top: -240%;
+    margin-left: -215%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .instagram  {
+    width: 110%;
+    margin-top: -240%;
+    
+    
+  }
+}
+
+
+
