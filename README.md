@@ -29,7 +29,8 @@
 | Data | Links |
 | ------ | ------ |
 |    22/09/2021    |[Entrega Parcial 1](https://github.com/Nicolas734/Portifolio---Design-Digital/releases/tag/V.1.0)|
-|    14/11/2021    |[Entrega Parcial 2](https://github.com/Nicolas734/Portfolio---Design-Digital/releases/tag/V.2.0)|
+|    14/11/2021    |[Entrega Parcial 2](https://github.com/Nicolas734/Portfolio---Design-Digital/releases/tag/V.2.0) |
+|    06/12/2021    |[Entrega Parcial 3](https://github.com/Nicolas734/Portfolio---Design-Digital/releases/tag/V.3.0) |
 
 <div>
   <br>
@@ -37,6 +38,18 @@
 
   
  [Playlist das Entregas Parciais](https://www.youtube.com/playlist?list=PLG6ZWbdTg-lvJyPPucsNLlyyk7xl1xXrW)
+ 
+  
+</div>
+
+<br>
+
+<div>
+  <br>
+  <h2>Link de Acesso ao Portfólio</h2>
+
+  
+ [Clique Aqui Para Acessar](https://nicolaslimaportfolio.herokuapp.com/)
  
   
 </div>
