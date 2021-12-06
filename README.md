@@ -29,6 +29,7 @@
     - Index.html
     - Base.html
 
+<br>
 
 ## Implantar esse sistema localmente:
 
@@ -42,7 +43,7 @@ virtualenv env
 ou (cmd windows)
 
 ```console
-py-3 -m venv venv
+py -3 -m venv venv
 ```
 
 <strong> 3. Ativar o ambiente virtual:</strong>
