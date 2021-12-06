@@ -9,20 +9,57 @@
 
 <p>como está organizado as pastas do repositorio:</p>
 
-<ul>
-  <li>Static</li>
-  <p> - CSS: armazenado os arquivos CSS. </p>
-  <p> - img: armazenado as imagens. </p>
-  
-  <br>
-  <li>templates</li>
-  <p> - armazenado os arquivos HTML. </p>
-  <br>
-  <li>doc</li>
-  <p> - armazenado o wireframe da versão mobile em PDF . </p>
-</ul>
-<br>
+- /doc
+  - Portifolio - Wireframe Desktop.pdf
+  - Portifolio - Wireframe Mobile.pdf
+- /src
+  - app.py
+  - /static
+    - /img
+        - bot.gif
+        - eu.jpg
+    - /css
+        - styles.css
 
+
+   
+  - /templates
+    - Contatos.html 
+    - Projetos.html
+    - Index.html
+    - Base.html
+
+
+## Implantar esse sistema localmente:
+
+
+<strong> 1. Clonar o repositório </strong>
+
+<strong> 2. Criar um ambiente virtual </strong> 
+```console
+virtualenv env 
+```
+ou (cmd windows)
+
+```console
+py-3 -m venv venv
+```
+
+<strong> 3. Ativar o ambiente virtual:</strong>
+
+```console
+venv\scripts\activate
+```
+<strong> 4. Instalar as dependências:</strong>
+```console
+pip install -r requirements.txt
+```
+<strong> 5. Executar a aplicação </strong>
+```console
+python wsgi.py
+```
+
+<br>
 
 ## Cronograma de Entregas
 
